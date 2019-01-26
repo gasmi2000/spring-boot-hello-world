@@ -1,1 +1,1 @@
-java -jar /myproject-0.0.1-SNAPSHOT.jar
+java -jar /spring-boot-hello-world-1.0.jar
